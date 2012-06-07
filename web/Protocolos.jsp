@@ -29,8 +29,8 @@
                         <h3>Menu</h3>
                         <div class="navbar-form">
                             <ul class="nav nav-tabs nav-stacked">
-                                <li ><a href="#">Home</a></li>
-                                <li ><a href="Protocolos.jsp">Protocolos</a></li>
+                                <li ><a href="main.jsp">Home</a></li>
+                                <li ><a href="">Protocolos</a></li>
                                 <li ><a href="#">Movimentação de protocolo</a></li>
                                 <li ><a href="#">Relatórios</a></li>
                                 <li ><a href="#">Sair</a></li>
@@ -67,26 +67,16 @@
                     <p/>
                   <div class="tabbable"> <!-- Only required for left/right tabs -->
                     <ul class="nav nav-tabs">
-                        <li class="active"><a href="#tab1" data-toggle="tab">Sobre</a></li>
-                        <li><a href="#tab2" data-toggle="tab">Como abrir um protocolo?</a></li>
-                        <li><a href="#tab3" data-toggle="tab">Como vizualizar um protocolo?</a></li>
-                        <li><a href="#tab5" data-toggle="tab">Como exibir relatórios de protocolos?</a></li>
+                        <li class="active"><a href="#tab1" data-toggle="tab">Inserir Protocolo</a></li>
+                        <li><a href="#tab2" data-toggle="tab">Movimentar protocolo</a></li>
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
-                        <h4>Sistema criado para a gestão de protocolos e documentos.</h4>
-                        
+                            
                         </div>
                         <div class="tab-pane" id="tab2">
-                        <p>Ajuda de como abrir um protocolo.</p>
+                            
                         </div>
-                        <div class="tab-pane" id="tab3">
-                        <p>Ajuda de como vizualizar um protocolo.</p>
-                        </div>
-                        <div class="tab-pane" id="tab5">
-                        <p>Ajuda de como exibir relatórios de um protocolo.</p>
-                        </div>
-                        
                     </div>
                 </div>
             </div>      
